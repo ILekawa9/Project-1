@@ -1,3 +1,3 @@
 api_key = "YOUR KEY HERE!"
 
-gkey = "your key"
+gkey = "AIzaSyAOCHa0SuPvGo0-7PuuI0-cyYbIjZHFhl4"
